@@ -1,0 +1,7 @@
+# Artefak model yang ditulis notebook Bab 13
+artifacts_ch13/
+
+# Lingkungan dan cache lokal
+.venv/
+.ipynb_checkpoints/
+__pycache__/
